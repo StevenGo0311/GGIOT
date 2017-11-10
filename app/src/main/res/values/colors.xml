@@ -1,6 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <color name="colorHyaline">#00000000</color>
+
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+    <color name="ColorTestGreen">#126632</color>
+    <color name="colorIconLauncherMain">#3a8eed</color>
+    <color name="colorIconLauncherText">#FFFFFF</color>
+
+    <color name="colorTextMainLoginActivity">#FFFFFF</color>
+    <color name="colorTextAssistantLoginActivity">#A5A5A5</color>
+    <color name="colorTextButtonPressedLoginActivity">#000000</color>
+
+    <color name="colorTextMainRegisterActivity">#FFFFFF</color>
+    <color name="colorTextAssistantRegisterActivity">#A5A5A5</color>
+    <color name="colorTextButtonPressedRegisterActivity">#000000</color>
+    <color name="colorTextButtonRegisterActivity">#000000</color>
+    <color name="colorBackgroundVerfiyButtonRegisterActivity">#DADADA</color>
+    <color name="colorButtonVerfiyEnabledRegisterActivity">#000000</color>
+    <color name="colorButtonVerfiyDiabledRegisterActivity">#A5A5A5</color>
+
+    <color name="colorTextMainRetrievePassActivity">#FFFFFF</color>
+    <color name="colorTextAssistantRetrievePassActivity">#A5A5A5</color>
+    <color name="colorTextButtonPressedRetrievePassActivity">#000000</color>
+    <color name="colorTextButtonRetrievePassActivity">#000000</color>
+    <color name="colorBackgroundVerfiyButtonRetrievePassActivity">#DADADA</color>
+    <color name="colorButtonVerfiyEnabledRetrievePassActivity">#000000</color>
+    <color name="colorButtonVerfiyDiabledRetrievePassActivity">#A5A5A5</color>
 </resources>

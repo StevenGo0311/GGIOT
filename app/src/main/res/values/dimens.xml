@@ -1,0 +1,45 @@
+<resources>
+    <dimen name="dimen_test">4dp</dimen>
+
+    <dimen name="margin">12dp</dimen>
+    <dimen name="dimen_text_size_activity_splash">26sp</dimen>
+    <dimen name="dimen_icon_size_activity_splash">60dp</dimen>
+    <dimen name="dimen_icon_border_radius_activity_splash">16dp</dimen>
+
+    <dimen name="dimen_text_size_title_activity_login">28sp</dimen>
+    <dimen name="dimen_text_size_edit_activity_login">22sp</dimen>
+    <dimen name="dimen_text_size_main_activity_login">24sp</dimen>
+    <dimen name="dimen_margin_activity_login">40dp</dimen>
+    <dimen name="dimen_margin_padding_activity_login">8dp</dimen>
+    <dimen name="dimen_radius_button_activity_login">4dp</dimen>
+    <dimen name="dimen_stroke_button_activity_login">3px</dimen>
+
+    <dimen name="dimen_text_size_title_activity_register">28sp</dimen>
+    <dimen name="dimen_text_size_edit_activity_register">22sp</dimen>
+    <dimen name="dimen_text_size_main_activity_register">24sp</dimen>
+    <dimen name="dimen_text_size_verfiy_activity_register">16sp</dimen>
+    <dimen name="dimen_margin_activity_register">40dp</dimen>
+    <dimen name="dimen_margin_padding_activity_register">8dp</dimen>
+    <dimen name="dimen_radius_button_activity_register">4dp</dimen>
+    <dimen name="dimen_stroke_button_activity_register">3px</dimen>
+    <dimen name="dimen_button_size_verfiy_activity_register">102dp</dimen>
+    <dimen name="dimen_paddingLeft_button_verfiy_activity_register">12dp</dimen>
+    <dimen name="dimen_paddingTop_button_verfiy_activity_register">6dp</dimen>
+    <dimen name="dimen_paddingRight_button_verfiy_activity_register">12dp</dimen>
+    <dimen name="dimen_paddingBottom_button_verfiy_activity_register">6dp</dimen>
+
+    <dimen name="dimen_text_size_title_activity_retrieve_pass">28sp</dimen>
+    <dimen name="dimen_text_size_edit_activity_retrieve_pass">22sp</dimen>
+    <dimen name="dimen_text_size_main_activity_retrieve_pass">24sp</dimen>
+    <dimen name="dimen_text_size_verfiy_activity_retrieve_pass">16sp</dimen>
+    <dimen name="dimen_margin_activity_retrieve_pass">40dp</dimen>
+    <dimen name="dimen_margin_padding_activity_retrieve_pass">8dp</dimen>
+    <dimen name="dimen_radius_button_activity_retrieve_pass">4dp</dimen>
+    <dimen name="dimen_stroke_button_activity_retrieve_pass">3px</dimen>
+    <dimen name="dimen_button_size_verfiy_activity_retrieve_pass">102dp</dimen>
+    <dimen name="dimen_paddingLeft_button_verfiy_activity_retrieve_pass">12dp</dimen>
+    <dimen name="dimen_paddingTop_button_verfiy_activity_retrieve_pass">6dp</dimen>
+    <dimen name="dimen_paddingRight_button_verfiy_activity_retrieve_pass">12dp</dimen>
+    <dimen name="dimen_paddingBottom_button_verfiy_activity_retrieve_pass">6dp</dimen>
+
+</resources>

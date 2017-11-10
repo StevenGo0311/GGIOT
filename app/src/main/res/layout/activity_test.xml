@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:gravity="center">
+    <com.daydreamer.ggiot.view.ClearEditText
+        android:layout_width="220dp"
+        android:layout_height="40dp"
+        android:hint="带清除按钮的editText"/>
+    <com.daydreamer.ggiot.view.CountDownButton
+        android:layout_width="220dp"
+        android:layout_height="40dp"
+        android:text="倒计时按钮"/>
+    <com.daydreamer.ggiot.view.DengFontButton
+        android:layout_width="220dp"
+        android:layout_height="40dp"
+        android:text="等线字体按钮"/>
+    <com.daydreamer.ggiot.view.DengFontClearEditText
+        android:layout_width="220dp"
+        android:layout_height="40dp"
+        android:hint="等线带清除按钮"/>
+    <com.daydreamer.ggiot.view.DengFontCountDownButton
+        android:layout_width="220dp"
+        android:layout_height="40dp"
+        android:text="倒计时按钮"/>
+    <com.daydreamer.ggiot.view.DengFontEditText
+        android:layout_width="220dp"
+        android:layout_height="40dp"
+        android:hint="倒计时按钮"/>
+    <com.daydreamer.ggiot.view.DengFontTextView
+        android:layout_width="220dp"
+        android:layout_height="40dp"
+        android:text="倒计时按钮"/>
+    <com.daydreamer.ggiot.view.CountDownButton
+        android:layout_width="220dp"
+        android:layout_height="40dp"
+        android:text="倒计时按钮"/>
+    <com.daydreamer.ggiot.view.RoundImageView
+        android:layout_width="220dp"
+        android:layout_height="40dp"
+        android:src="@mipmap/icon_launcher"
+        app:type="round"/>
+
+</LinearLayout>
